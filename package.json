@@ -1,0 +1,22 @@
+{
+  "name": "namaste_react",
+  "version": "1.0.0",
+  "description": "This is akshay saini namaste react app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vigneshherao/Namaste_React.git"
+  },
+  "author": "VIGNESH H E",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vigneshherao/Namaste_React/issues"
+  },
+  "homepage": "https://github.com/vigneshherao/Namaste_React#readme",
+  "dependencies": {
+    "parcel": "^2.10.3"
+  }
+}
